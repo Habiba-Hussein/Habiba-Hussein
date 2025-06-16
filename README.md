@@ -1,5 +1,5 @@
 ## Data Scientist | Tech Educator | Social Impact Advocate
-Hi, I’m @Habiba-Hussein. Passionate about using data to solve real-world problems. 
+Hi, I am Habiba Hussein. Passionate about using data to solve real-world problems. 
 Experienced in Python, machine learning, and data analysis. 
 Outside data, I am a Co-founder of OMCF (Open Minds Community Focus) - mental health organization, and championing tech for good.
 Always learning, always building. 
